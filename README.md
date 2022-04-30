@@ -1,6 +1,6 @@
-### Hello! I'm Evgeny Vasiukevich 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+I'm+Evgeny+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🔥 Currently I'm looking for a job as a front-end developer
+- 🔥 Currently I'm looking for a job as a front-end developer and 🚀 I'm learning React and TypeScript
 - 💻 HTML, SCSS, Javascript
 - 🧰 Bootstrap/Sematic UI; Parcel/Webpack; NPM.
 - ⚡ Fun fact: I'm an engineer in real estate with PM's experience in construction
