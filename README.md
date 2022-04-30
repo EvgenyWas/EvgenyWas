@@ -1,9 +1,9 @@
 ### Hello! I'm Evgeny Vasiukevich 👋
 
-- 🔥 Currently I'm looking for a job 
+- 🔥 Currently I'm looking for a job as a front-end developer
 - 💻 HTML, SCSS, Javascript
 - 🧰 Bootstrap/Sematic UI; Parcel/Webpack; NPM.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm an engineer in real estate with PM's experience in construction
 
 ### 📫 Contacts 
 - **Gmail:** evgeniywas@gmail.com
@@ -14,7 +14,7 @@
 
 ### 🔑 My Projects
 
-details><summary><b>🤖  HTML&CSS Projects</b></summary>
+<details><summary><b>🤖  HTML&CSS Projects</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/VK-dashboard">The page of app with using CSS Grid</a></li>
@@ -26,7 +26,7 @@ details><summary><b>🤖  HTML&CSS Projects</b></summary>
   </ul>
 </details>
 
-details><summary><b>👾  JavaScript Projects</b></summary>
+<details><summary><b>👾  JavaScript Projects</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/todo-list">Improved Simple Todo List</a></li>
