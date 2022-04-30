@@ -31,6 +31,7 @@
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/todo-list">Improved Simple Todo List</a></li>
+    <li><a href="https://github.com/EvgenyWas/Animated-circle-with-callback">Animated circle with callback</a></li>
   </ul>
 </details>
 
