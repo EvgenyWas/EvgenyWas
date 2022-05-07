@@ -10,7 +10,7 @@
 - **Telegram:** https://t.me/evgeny_was
 
 ### 📈 Codewars
-<!-- <img src='https://www.codewars.com/users/Oleg-Kolosov/badges/large'> -->
+<img src='https://www.codewars.com/users/EvgenyWas/badges/large'>
 
 
 ### 🔑 My Projects
