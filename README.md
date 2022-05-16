@@ -31,8 +31,9 @@
 <details><summary><b>👾  JavaScript Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/todo-list">Improved Simple Todo List</a></li>
+    <li><a href="https://github.com/EvgenyWas/spravello">Spravello</a></li>
     <li><a href="https://github.com/EvgenyWas/aim-game">Aim game</a></li>
+    <li><a href="https://github.com/EvgenyWas/todo-list">Improved Simple Todo List</a></li>
     <li><a href="https://github.com/EvgenyWas/simple-timer">Simple timer</a></li>
     <li><a href="https://github.com/EvgenyWas/hover-board">Hover board</a></li>
     <li><a href="https://github.com/EvgenyWas/gallery-of-cards">Gallery of cards</a></li>
