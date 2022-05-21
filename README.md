@@ -15,7 +15,7 @@
 
 ### 🔑 My Projects
 
-<details><summary><b>🤖  HTML&CSS Projects</b></summary>
+<details><summary><b>👨‍🚀  HTML&CSS Projects</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/VK-dashboard">The page of app with using CSS Grid</a></li>
@@ -43,3 +43,9 @@
   </ul>
 </details>
 
+<details><summary><b>🤖  TypeScript Projects</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/EvgenyWas/finance-logger">Finance logger</a></li>
+  </ul>
+</details>
