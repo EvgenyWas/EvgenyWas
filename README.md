@@ -47,5 +47,6 @@
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/finance-logger">Finance logger</a></li>
+    <li><a href="https://github.com/EvgenyWas/Weather-App">Weather App</a></li>
   </ul>
 </details>
