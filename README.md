@@ -48,3 +48,10 @@
     <li><a href="https://github.com/EvgenyWas/Weather-App">Weather App</a></li>
   </ul>
 </details>
+
+<details><summary><b>👨‍💻  React Projects</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/EvgenyWas/meme-generator">Meme generator</a></li>
+  </ul>
+</details>
