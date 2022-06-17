@@ -2,7 +2,7 @@
 
 - 🔥 Currently I'm looking for a job as a Front-end developer and 🚀 learning React
 - 💻 HTML, SCSS, JavaScript, TypeScript
-- 🧰 Bootstrap/Sematic UI; Parcel/Webpack; NPM.
+- 🧰 Bootstrap/Sematic UI; Parcel/Webpack; NPM; Redux.
 - ⚡ Fun fact: I'm an engineer in real estate with PM's experience in construction
 
 ### 📫 Contacts 
