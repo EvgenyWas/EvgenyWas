@@ -1,8 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+I'm+Evgeny+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🔥 Currently I'm looking for a job as a Front-end developer and 🚀 learning React
-- 💻 HTML, SCSS, JavaScript, TypeScript
-- 🧰 Bootstrap/Sematic UI; Parcel/Webpack; NPM; Redux.
+- 🔥 Currently I'm looking for a job as a Front-end developer 🚀
+- 💻 React/TypeScript/Redux(thunk, saga, toolkit); GraphQL (Apollo client).
+- 🧰 HTML/SCSS/JavaScript; Bootstrap/Sematic UI; Parcel/Webpack; npm/yarn.
 - ⚡ Fun fact: I'm an engineer in real estate with PM's experience in construction
 
 ### 📫 Contacts 
