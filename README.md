@@ -52,7 +52,7 @@
 <details><summary><b>👨‍💻  React Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse (in progress)</a></li>
+    <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
     <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
     <li><a href="https://github.com/EvgenyWas/tenzies-game">Tenzies game</a></li>
     <li><a href="https://github.com/EvgenyWas/meme-generator">Meme generator</a></li>
