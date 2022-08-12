@@ -15,14 +15,22 @@
 
 ### 🔑 My Projects
 
-<details><summary><b>👨‍🚀  HTML&CSS Projects</b></summary>
+<details><summary><b>👨‍💻  React Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/VK-dashboard">The page of app with using CSS Grid</a></li>
-    <li><a href="https://github.com/EvgenyWas/The-space-travel-website">The space travel website</a></li>
-    <li><a href="https://github.com/EvgenyWas/Landingpage-LaslesVPN">The landing page</a></li>
-    <li><a href="https://github.com/EvgenyWas/Simple-Landing-Page">Easy responsive web page</a></li>
-    <li><a href="https://github.com/EvgenyWas/Simple-Budget-App">Simple budget app with using Bootstrap 5</a></li>
+    <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
+    <li><a href="https://github.com/EvgenyWas/online-shop">Online shop (in progress)</a></li>
+    <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
+    <li><a href="https://github.com/EvgenyWas/tenzies-game">Tenzies game</a></li>
+    <li><a href="https://github.com/EvgenyWas/meme-generator">Meme generator</a></li>
+  </ul>
+</details>
+
+<details><summary><b>🤖  TypeScript Projects</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/EvgenyWas/finance-logger">Finance logger</a></li>
+    <li><a href="https://github.com/EvgenyWas/Weather-App">Weather App</a></li>
   </ul>
 </details>
 
@@ -41,21 +49,13 @@
   </ul>
 </details>
 
-<details><summary><b>🤖  TypeScript Projects</b></summary>
+<details><summary><b>👨‍🚀  HTML&CSS Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/finance-logger">Finance logger</a></li>
-    <li><a href="https://github.com/EvgenyWas/Weather-App">Weather App</a></li>
-  </ul>
-</details>
-
-<details><summary><b>👨‍💻  React Projects</b></summary>
-  
-  <ul>
-    <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
-    <li><a href="https://github.com/EvgenyWas/online-shop">Online shop (in progress)</a></li>
-    <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
-    <li><a href="https://github.com/EvgenyWas/tenzies-game">Tenzies game</a></li>
-    <li><a href="https://github.com/EvgenyWas/meme-generator">Meme generator</a></li>
+    <li><a href="https://github.com/EvgenyWas/VK-dashboard">The page of app with using CSS Grid</a></li>
+    <li><a href="https://github.com/EvgenyWas/The-space-travel-website">The space travel website</a></li>
+    <li><a href="https://github.com/EvgenyWas/Landingpage-LaslesVPN">The landing page</a></li>
+    <li><a href="https://github.com/EvgenyWas/Simple-Landing-Page">Easy responsive web page</a></li>
+    <li><a href="https://github.com/EvgenyWas/Simple-Budget-App">Simple budget app with using Bootstrap 5</a></li>
   </ul>
 </details>
