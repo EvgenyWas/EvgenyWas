@@ -19,7 +19,7 @@
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
-    <li><a href="https://github.com/EvgenyWas/online-shop">Online shop (in progress)</a></li>
+    <li><a href="https://github.com/EvgenyWas/online-shop">Online shop</a></li>
     <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
     <li><a href="https://github.com/EvgenyWas/tenzies-game">Tenzies game</a></li>
     <li><a href="https://github.com/EvgenyWas/meme-generator">Meme generator</a></li>
