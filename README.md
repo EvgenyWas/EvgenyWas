@@ -18,7 +18,7 @@
 <details><summary><b>👽 Vue Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky</a></li>
+    <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky (in progress)</a></li>
   </ul>
 </details>
 
