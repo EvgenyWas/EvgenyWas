@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+I'm+Evgeny+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+I'm+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔥 Currently, I'm looking for a job as a Frontend Developer 🚀 Currently, I'm learning Vue.js
 - 💻 React/TypeScript/Redux(thunk, saga, toolkit); GraphQL (Apollo client)
