@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+I'm+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🔥 Currently, I'm looking for a job as a Frontend Developer 🚀 and learning Vue.js
+- 🔥 Currently, I'm learning Vue.js 🚀
 - 💻 React/TypeScript/Redux(thunk, saga, toolkit); GraphQL (Apollo client)
 - 🧰 JavaScript/HTML5/CSS3/SASS; Bootstrap/Sematic UI; Parcel/Webpack; npm/yarn
 - ⚡ Fun fact: I'm Bachelor of Engineering with PM's experience in construction
