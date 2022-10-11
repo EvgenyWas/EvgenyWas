@@ -1,9 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+I'm+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔥 Currently, I'm working on Vue.js 🚀
-- 💻 React/TypeScript/Redux(thunk, saga, toolkit); GraphQL (Apollo client)
+- 💻 React/TypeScript/Redux; GraphQL (Apollo client)
 - 🧰 JavaScript/HTML5/CSS3/SASS; Bootstrap/Sematic UI; Parcel/Webpack; npm/yarn
-- ⚡ Fun fact: I'm Bachelor of Engineering with PM's experience in construction
+- ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction
 
 ### 📫 Contacts 
 - **Gmail:** evgeniywas@gmail.com
