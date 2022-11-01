@@ -18,15 +18,15 @@
 <details><summary><b>👽 Vue Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky (in progress)</a></li>
+    <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky online store (in progress)</a></li>
   </ul>
 </details>
 
 <details><summary><b>👨‍💻  React Projects</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
     <li><a href="https://github.com/EvgenyWas/online-shop">Online shop</a></li>
+    <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
     <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
     <li><a href="https://github.com/EvgenyWas/currency-converter">Currency Converter</a></li>
     <li><a href="https://github.com/EvgenyWas/tenzies-game">Tenzies game</a></li>
