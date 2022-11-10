@@ -2,7 +2,7 @@
 
 - 🔥 Currently, I'm working on Vue.js 🚀
 - 💻 React/TypeScript/Redux; GraphQL (Apollo client)
-- 🧰 JavaScript/HTML5/CSS3/SASS; Bootstrap/Sematic UI; Parcel/Webpack; npm/yarn
+- 🧰 JavaScript/HTML5/CSS3/SASS; Bootstrap/Sematic UI; Jest; npm/yarn
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction
 
 ### 📫 Contacts 
