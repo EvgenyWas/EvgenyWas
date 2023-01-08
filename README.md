@@ -2,7 +2,7 @@
 
 - 🔥 Currently, I'm working on Vue.js 🚀
 - 💻 React/TypeScript/Redux; GraphQL (Apollo client)
-- 🧰 JavaScript/HTML5/CSS3/SASS; Bootstrap/Sematic UI; npm/yarn
+- 🧰 JavaScript/HTML5/CSS3/SCSS; Bootstrap/Sematic UI; npm/yarn
 - 🔧 Unit testing (Jest)
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction
 
@@ -16,7 +16,7 @@
 
 ### 🔑 My Projects
 
-<details><summary><b>👽 Vue Projects</b></summary>
+<details><summary><b>👽 Vue</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky online store</a></li>
@@ -24,7 +24,7 @@
   </ul>
 </details>
 
-<details><summary><b>👨‍💻  React Projects</b></summary>
+<details><summary><b>👨‍💻  React</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/online-shop">Online shop</a></li>
@@ -36,7 +36,7 @@
   </ul>
 </details>
 
-<details><summary><b>🤖  TypeScript Projects</b></summary>
+<details><summary><b>🤖  TypeScript</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/finance-logger">Finance logger</a></li>
@@ -44,7 +44,7 @@
   </ul>
 </details>
 
-<details><summary><b>👾  JavaScript Projects</b></summary>
+<details><summary><b>👾  JavaScript</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/spravello">Spravello</a></li>
@@ -59,7 +59,7 @@
   </ul>
 </details>
 
-<details><summary><b>👨‍🚀  HTML&CSS Projects</b></summary>
+<details><summary><b>👨‍🚀  HTML&CSS</b></summary>
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/VK-dashboard">The page of app with using CSS Grid</a></li>
