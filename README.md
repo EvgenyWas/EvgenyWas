@@ -55,7 +55,6 @@
     <li><a href="https://github.com/EvgenyWas/gallery-of-cards">Gallery of cards</a></li>
     <li><a href="https://github.com/EvgenyWas/slider">Slider</a></li>
     <li><a href="https://github.com/EvgenyWas/simple-drag-n-drop">Simple drag&drop</a></li>
-    <li><a href="https://github.com/EvgenyWas/Animated-circle-with-callback">Animated circle with callback</a></li>
   </ul>
 </details>
 
