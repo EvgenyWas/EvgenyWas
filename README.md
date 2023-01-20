@@ -50,11 +50,11 @@
     <li><a href="https://github.com/EvgenyWas/spravello">Spravello</a></li>
     <li><a href="https://github.com/EvgenyWas/aim-game">Aim game</a></li>
     <li><a href="https://github.com/EvgenyWas/todo-list">Improved Simple Todo List</a></li>
-    <li><a href="https://github.com/EvgenyWas/simple-timer">Simple timer</a></li>
     <li><a href="https://github.com/EvgenyWas/hover-board">Hover board</a></li>
     <li><a href="https://github.com/EvgenyWas/gallery-of-cards">Gallery of cards</a></li>
     <li><a href="https://github.com/EvgenyWas/slider">Slider</a></li>
     <li><a href="https://github.com/EvgenyWas/simple-drag-n-drop">Simple drag&drop</a></li>
+    <li><a href="https://github.com/EvgenyWas/simple-timer">Simple timer</a></li>
   </ul>
 </details>
 
