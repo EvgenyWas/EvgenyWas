@@ -65,6 +65,5 @@
     <li><a href="https://github.com/EvgenyWas/The-space-travel-website">The space travel website</a></li>
     <li><a href="https://github.com/EvgenyWas/Landingpage-LaslesVPN">The landing page</a></li>
     <li><a href="https://github.com/EvgenyWas/Simple-Landing-Page">Easy responsive web page</a></li>
-    <li><a href="https://github.com/EvgenyWas/Simple-Budget-App">Simple budget app with using Bootstrap 5</a></li>
   </ul>
 </details>
