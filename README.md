@@ -20,7 +20,7 @@
   
   <ul>
     <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky online store</a></li>
-    <li><a href="https://github.com/EvgenyWas/simple-cloud-app">Simple cloud app (in progress)</a></li>
+    <li><a href="https://github.com/EvgenyWas/simple-cloud-app">Simple cloud app</a></li>
   </ul>
 </details>
 
