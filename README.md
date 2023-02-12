@@ -16,23 +16,24 @@
 
 ### 🔑 My Projects
 
-<details><summary><b>👽 Vue</b></summary>
-  
-  <ul>
-    <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky online store</a></li>
-    <li><a href="https://github.com/EvgenyWas/simple-cloud-app">Simple cloud app</a></li>
-  </ul>
-</details>
-
 <details><summary><b>👨‍💻  React</b></summary>
   
   <ul>
+    <li><a href="https://github.com/EvgenyWas/scheduler-fe">Scheduler (in progress)</a></li>
     <li><a href="https://github.com/EvgenyWas/online-shop">Online shop</a></li>
     <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
     <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
     <li><a href="https://github.com/EvgenyWas/currency-converter">Currency Converter</a></li>
     <li><a href="https://github.com/EvgenyWas/tenzies-game">Tenzies game</a></li>
     <li><a href="https://github.com/EvgenyWas/meme-generator">Meme generator</a></li>
+  </ul>
+</details>
+
+<details><summary><b>👽 Vue</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/EvgenyWas/modnikky">Modnikky online store</a></li>
+    <li><a href="https://github.com/EvgenyWas/simple-cloud-app">Simple cloud app</a></li>
   </ul>
 </details>
 
