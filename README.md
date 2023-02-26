@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello!+My+name+is+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=495&color=000000&lines=Hello!+My+name+is+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔥 Currently, I'm working on Vue.js 🚀
 - 💻 React/TypeScript/Redux; GraphQL (Apollo client)
