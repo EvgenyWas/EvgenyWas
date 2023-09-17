@@ -2,8 +2,8 @@
 
 - 🔥 Currently, I'm working on Vue.js 🚀
 - 💻 React/TypeScript/Redux Toolkit; GraphQL (Apollo client)
-- 🧰 JavaScript/HTML5/CSS3/SCSS; Bootstrap/Semantic UI; npm/yarn
-- 🔧 Node.js (Express), Unit testing (Jest)
+- 🧰 JavaScript/HTML5/CSS3/SCSS; Bootstrap/Semantic UI; npm/yarn/pnpm
+- 🔧 Node.js (Express), Unit testing (Jest/Vitest), End-To-End testing (Playwright)
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction
 
 ### 📫 Contacts 
