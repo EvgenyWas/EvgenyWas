@@ -2,7 +2,7 @@
 
 - 🔥 Currently, I'm working on Nuxt.js 3 🚀
 - 🖼️ React.js | Vue.js | TypeScript
-- 💻 State management (Redux Toolkit, Pinia and etc.); Rest API, GraphQL (Apollo client)
+- 💻 State management (Redux Toolkit, Pinia, etc.); Rest API, GraphQL (Apollo client)
 - 🧰 HTML5/CSS3/SCSS/Tailwindcss; MUI/Vuetify/Bootstrap; npm/yarn/pnpm
 - 🔧 Node.js (Express), Unit testing (Jest/Vitest), End-To-End testing (Playwright)
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction
