@@ -39,6 +39,13 @@
   </ul>
 </details>
 
+<details><summary><b>🧝 Nuxt</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/EvgenyWas/nuxt3-capabilities">Nuxt</a></li>
+  </ul>
+</details>
+
 <details><summary><b>🤖  TypeScript</b></summary>
   
   <ul>
