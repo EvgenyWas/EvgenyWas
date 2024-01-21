@@ -42,7 +42,7 @@
 <details><summary><b>🧝 Nuxt</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/nuxt3-capabilities">Nuxt</a></li>
+    <li><a href="https://github.com/EvgenyWas/nuxt3-blog">Nuxt 3 Blog</a></li>
   </ul>
 </details>
 
