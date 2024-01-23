@@ -21,7 +21,6 @@
 <details><summary><b>👨‍💻  React</b></summary>
   
   <ul>
-    <li><a href="https://github.com/EvgenyWas/scheduler-fe">Scheduler (in progress)</a></li>
     <li><a href="https://github.com/EvgenyWas/online-shop">Online shop</a></li>
     <li><a href="https://github.com/EvgenyWas/triphouse">TripHouse</a></li>
     <li><a href="https://github.com/EvgenyWas/quiz-app">Quiz App</a></li>
