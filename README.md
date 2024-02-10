@@ -1,11 +1,11 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=495&color=000000&lines=Hello!+My+name+is+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔥 Currently, I'm working on Nuxt.js 3 🚀
-- 🖼️ React.js | Vue.js | TypeScript
+- 🖼️ TypeScript | Vue.js | React.js
 - 💻 State management (Redux Toolkit, Pinia, etc.); Rest API, GraphQL (Apollo client)
-- 🧰 HTML5/CSS3/SCSS/Tailwindcss; Vuetify/MUI/Bootstrap; npm/yarn/pnpm
+- 🧰 HTML5/CSS3/SCSS/TailwindCSS; Vuetify/MUI/Bootstrap; npm/yarn/pnpm
 - 🔧 Node.js (Express), Unit testing (Jest/Vitest), End-To-End testing (Playwright)
-- 🔫 Docker, GitLab CI 
+- 🔫 Docker, GitLab CI
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction business
 
 ### 📫 Contacts 
