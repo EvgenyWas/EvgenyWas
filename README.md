@@ -8,8 +8,7 @@
 - 🔫 Docker, GitLab CI
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction business
 
-### 📫 Contacts 
-- **Gmail:** evgeniywas@gmail.com
+### 📫 Contacts
 - **Telegram:** https://t.me/evgeny_was
 
 ### 📈 Codewars
