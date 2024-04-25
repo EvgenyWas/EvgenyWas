@@ -5,7 +5,7 @@
 - 💻 State management (Redux Toolkit, Pinia, etc.); Rest API, GraphQL (Apollo client)
 - 🧰 HTML5/CSS3/SCSS/TailwindCSS; Vuetify/MUI/Bootstrap; npm/yarn/pnpm
 - 🔧 Node.js (Express), Unit testing (Jest/Vitest), End-To-End testing (Playwright)
-- 🔫 Docker, GitLab CI
+- 🔫 Docker, GitLab CI, Azure
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction business
 
 ### 📫 Contacts
