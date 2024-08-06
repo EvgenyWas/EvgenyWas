@@ -65,13 +65,3 @@
     <li><a href="https://github.com/EvgenyWas/simple-timer">Simple timer</a></li>
   </ul>
 </details>
-
-<details><summary><b>👨‍🚀  HTML&CSS</b></summary>
-  
-  <ul>
-    <li><a href="https://github.com/EvgenyWas/VK-dashboard">The page of app with using CSS Grid</a></li>
-    <li><a href="https://github.com/EvgenyWas/The-space-travel-website">The space travel website</a></li>
-    <li><a href="https://github.com/EvgenyWas/Landingpage-LaslesVPN">The landing page</a></li>
-    <li><a href="https://github.com/EvgenyWas/Simple-Landing-Page">Easy responsive web page</a></li>
-  </ul>
-</details>
