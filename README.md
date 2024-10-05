@@ -13,3 +13,6 @@
 
 ### 📈 Codewars
 <img src='https://www.codewars.com/users/EvgenyWas/badges/large'>
+
+### 🏆 My open-source contributions
+Look at my recent pull requests to open-source projects - <a href="https://my-contributions.nuxt.dev/" target="_blank">🔗</a>
