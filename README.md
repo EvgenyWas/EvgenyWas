@@ -14,5 +14,5 @@
 ### 📈 Codewars
 <img src='https://www.codewars.com/users/EvgenyWas/badges/large'>
 
-### 🏆 My open-source contributions
+### 🏆 My contributions
 Look at my recent pull requests to open-source projects - [🔗](https://my-contributions.nuxt.dev/)
