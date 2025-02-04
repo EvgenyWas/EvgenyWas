@@ -2,10 +2,10 @@
 
 - 🔥 Currently, I'm working on React.js 🚀
 - 🖼️ JavaScript | TypeScript | React.js | Vue.js | Nuxt.js
-- 💻 State management (Redux Toolkit, Pinia, etc.); Rest API, GraphQL (Apollo client)
+- 💻 State management (Redux Toolkit, Pinia, etc.); Rest API, GraphQL
 - 🧰 HTML5/CSS3/SCSS/TailwindCSS; Vuetify/MUI/Bootstrap; npm/yarn/pnpm
-- 🔧 Node.js (Express), Unit testing (Jest/Vitest), End-To-End testing (Playwright)
-- 🔫 Docker, GitLab CI, Azure
+- 🔧 Node.js (Express/NestJS), Unit testing (Jest/Vitest), End-To-End testing (Playwright)
+- 🔫 Docker, GitLab CI, GitHub Workflows, Azure Cloud
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction business
 
 ### 📫 Contacts
