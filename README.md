@@ -5,7 +5,7 @@
 - 💻 State management (Redux Toolkit, Pinia, etc.); Rest API, GraphQL
 - 🧰 HTML5/CSS3/SCSS/TailwindCSS; Vuetify/MUI/Bootstrap; npm/yarn/pnpm
 - 🔧 Node.js (Express/NestJS), unit/integration testing (Jest/Vitest), E2E testing (Playwright)
-- 🔫 Docker, GitLab CI, GitHub Workflows, Azure Cloud
+- 🔫 Docker, GitLab CI, GitHub Workflows
 - ⚡ Fun fact: I'm a Bachelor of Engineering with PM's experience in construction business
 
 ### 📫 Contacts
