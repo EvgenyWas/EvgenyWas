@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=495&color=000000&lines=Hello!+My+name+is+Yauheni+Vasiukevich+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a Frontend Engineer specializing in building and maintaining scalable web applications with modern JavaScript frameworks.
+I'm a Fullstack Engineer specializing in building and maintaining scalable web applications with modern JavaScript frameworks.
 Experienced in component-driven development, system design for front-end architectures, and cross-functional collaboration.
 
 - 💻 Expertise in JavaScript, TypeScript, React, and Vue ecosystems.
